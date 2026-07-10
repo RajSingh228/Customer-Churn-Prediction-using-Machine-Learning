@@ -1,7 +1,5 @@
 # Customer-Churn-Prediction-using-Machine-Learning
 
-# Customer Churn Prediction Using Machine Learning
-
 Customer Churn Prediction is a Machine Learning project that predicts whether a telecom customer is likely to leave the service or continue using it. The project includes data preprocessing, exploratory data analysis, handling class imbalance using SMOTE, training multiple machine learning models, and building a Hybrid Voting Classifier for improved prediction performance.
 
 ---
